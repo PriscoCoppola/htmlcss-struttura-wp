@@ -32,6 +32,7 @@ header.header {
 .leader {
     height: 600px;
     background-color: #3484f6;
+    margin-bottom: 0;
 }
 
 .leader .header { 
@@ -64,6 +65,9 @@ header.header {
     float: left;
 }
 
-
-
 /* FOOTER */
+.footer {
+    height: 75px;
+    background-color: #8c4cf6;
+    margin-top: 10px;
+}
