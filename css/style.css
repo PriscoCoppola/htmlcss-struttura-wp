@@ -1,0 +1,23 @@
+/* GENERAL */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* UTILITIES */
+.container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+/* HEADER */
+.head {
+    margin-top: 50px;
+    height: 200px;
+    background-color: #e579e6;
+}
+
+/* MAIN */
+
+/* FOOTER */
