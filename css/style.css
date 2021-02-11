@@ -8,16 +8,19 @@
 /* UTILITIES */
 .container {
     width: 80%;
-    margin: 0 auto;
+    margin: 40px auto;
 }
 
 /* HEADER */
 .head {
-    margin-top: 50px;
-    height: 200px;
+    height: 150px;
     background-color: #e579e6;
 }
 
 /* MAIN */
+.photo {
+    height: 450px;
+    background-color: #e1d67a;
+}
 
 /* FOOTER */
